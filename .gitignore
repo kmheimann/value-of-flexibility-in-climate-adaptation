@@ -1,0 +1,11 @@
+__pycache__
+.claude
+.github
+.vscode
+.venv
+.DS_Store
+cache
+output
+figures/*
+!figures/*.py
+data/Ligging_primaire_waterkeringen.csv

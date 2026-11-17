@@ -1,0 +1,10 @@
+cloudpickle
+ipykernel
+matplotlib
+numpy
+openpyxl
+pandas
+pypalettes
+rpy2
+scipy
+tabulate

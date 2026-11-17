@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Value of Flexibility in Climate Adaptation - Flood Protection Design under Sea-Level Rise Uncertainty"
+abstract: "Code accompanying the Master's thesis 'Value of Flexibility in Climate Adaptation - Flood Protection Design under Sea-Level Rise Uncertainty'."
+authors:
+  - family-names: Heimann
+    given-names: Kaan
+    orcid: "https://orcid.org/0009-0001-0866-558X"
+license: MIT
+repository-code: "https://github.com/kmheimann/value-of-flexibility-in-climate-adaptation"
+date-released: "2026-11-17"
+preferred-citation:
+  type: thesis
+  thesis-type: "Master's thesis"
+  title: "Value of Flexibility in Climate Adaptation - Flood Protection Design under Sea-Level Rise Uncertainty"
+  authors:
+    - family-names: Heimann
+      given-names: Kaan
+      orcid: "https://orcid.org/0009-0001-0866-558X"
+  institution:
+    name: "Technical University of Munich and Delft University of Technology"
+  year: 2026
